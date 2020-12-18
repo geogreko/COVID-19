@@ -5,15 +5,15 @@ Creative Commons Attribution 4.0
 Lessons from the COVID-19 pandemic’s first wave: a modelling study for assessing the optimal time for imposing lockdown
 George Grekousis (a,b), Athanasios S. Fokas (c,d), Nikolaos Dikaios (e)
 
-a Department of Urban and Regional Planning, Sun Yat-Sen University, China
+(a) Department of Urban and Regional Planning, Sun Yat-Sen University, China
 
-b Guangdong Key Laboratory for Urbanization and Geo-simulation, Sun Yat-sen University, China
+(b) Guangdong Key Laboratory for Urbanization and Geo-simulation, Sun Yat-sen University, China
 
-c Department of Applied Mathematics and Theoretical physics, University of Cambridge, UK
+(c) Department of Applied Mathematics and Theoretical physics, University of Cambridge, UK
 
-d Viterbi School of Engineering, University of Southern California, USA
+(d) Viterbi School of Engineering, University of Southern California, USA
 
-e Research Center of Mathematics, Academy of Athens, Greece
+(e) Research Center of Mathematics, Academy of Athens, Greece
 
 Abstract
 
