@@ -1,6 +1,8 @@
 # COVID-19
 Data and code for the paper: Lessons from the COVID-19 pandemic’s first wave: a modelling study for assessing the optimal time for imposing lockdown
-Creative Commons Attribution 4.0
+
+Licence: Creative Commons Attribution 4.0
+
 
 Lessons from the COVID-19 pandemic’s first wave: a modelling study for assessing the optimal time for imposing lockdown
 George Grekousis (a,b), Athanasios S. Fokas (c,d), Nikolaos Dikaios (e)
